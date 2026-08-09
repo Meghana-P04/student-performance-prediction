@@ -157,15 +157,15 @@ Student-Performance-Prediction/
 
 ## 📸 Application Screenshots
 
-### 📝 Student Input
+###  Student Input
 
 ![Student Input](screenshots/student_input.png)
 
-### 🎯 High Performance Prediction
+###  High Performance Prediction
 
 ![High Prediction](screenshots/high_prediction.png)
 
-### 📊 Prediction Probabilities
+###  Prediction Probabilities
 
 ![Prediction Result](screenshots/prediction_result.png)
 ## 🌐 Live Demo
