@@ -168,3 +168,6 @@ Student-Performance-Prediction/
 ### 📊 Prediction Probabilities
 
 ![Prediction Result](screenshots/prediction_result.png)
+## 🌐 Live Demo
+
+[Student Performance Prediction App](https://student-performance-prediction-8ivzv6mn8upgzrmbqqddjz.streamlit.app/)
