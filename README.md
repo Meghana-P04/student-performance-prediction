@@ -97,3 +97,61 @@ The `Exam_Score` column was converted into a categorical target variable called:
 
 ```text
 Performance_Level
+## 🖥️ Application Workflow
+
+```text
+User Input
+    ↓
+DataFrame Creation
+    ↓
+One-Hot Encoding
+    ↓
+Feature Alignment
+    ↓
+Feature Scaling
+    ↓
+Saved Machine Learning Model
+    ↓
+Prediction
+    ↓
+Performance Level
+    ↓
+Prediction Probabilities
+```
+## 📁 Project Structure
+
+```text
+Student-Performance-Prediction/
+│
+├── data/
+│   └── student_performance.csv
+│
+├── models/
+│   ├── feature_names.pkl
+│   ├── scaler.pkl
+│   └── student_performance_model.pkl
+│
+├── notebooks/
+│   └── Student_Performance_Analysis.ipynb
+│
+├── report/
+│   └── ...
+│
+├── app.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Streamlit
+- Jupyter Notebook
+- Git
+- GitHub
+- 
